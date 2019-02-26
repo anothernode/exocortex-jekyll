@@ -7,5 +7,3 @@ layout: home
 
 [private](private/secret.html)
 
-bar
-
