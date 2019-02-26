@@ -7,4 +7,3 @@ layout: home
 
 [private](private/secret.html)
 
-foo
