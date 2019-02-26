@@ -5,4 +5,4 @@
 layout: home
 ---
 
-[private](private/secret)
+[private](private/secret.html)
