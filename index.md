@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+[private](private/secret)
