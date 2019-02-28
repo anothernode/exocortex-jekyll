@@ -16,8 +16,8 @@
 title: Exocortex
 email: moritz@anothernode.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my exocortex. An exocortex is formed by "any mental memory or
-  processing component that resides outside your physical brain." (Andy Hunt)
+  An exocortex is formed by "any mental memory or processing component that
+  resides outside your physical brain." (Andy Hunt)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://exocortex.anothernode.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: anothernode
