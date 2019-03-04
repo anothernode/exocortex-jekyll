@@ -40,9 +40,9 @@ readable if dealing with code files where long lines force you to scroll
 horizontally in order to absorb the whole content. Along the same lines, IDEs
 like PyCharm or Visual Studio Code are equipped with a wealth of tool views that
 provide insights into different aspects of a project. Or if you prefer the
-minimalistic ways of coding in Vim or Emacs, you can still make much better use
-of the horizontal screen space by, for example, having API docs side by side
-with your code. The bottom line is, that if, and only if you don't need all your
+minimalist ways of coding in Vim or Emacs, you can still make much better use of
+the horizontal screen space by, for example, having API docs side by side with
+your code. The bottom line is, that if, and only if you don't need all your
 screen space to fit code with excessive line lengths on it, you can make far
 better use of that screen real estate in one or the other way.
 
@@ -144,5 +144,5 @@ does often not get recognized enough. Then again, yeah, okay, let's be honest,
 truly beautiful code does not exceed 80 characters per line. 😏
 
 [^human-language]: I'm putting "human language" in quotes, because "programming
-  languages" are, of course, no less "human" than any other language, but I'm
-  lacking a better term.
+    languages" are, of course, no less "human" than any other language, but I'm
+    lacking a better term.
