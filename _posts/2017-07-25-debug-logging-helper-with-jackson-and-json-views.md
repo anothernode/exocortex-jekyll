@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Debug Logging Helper with Jackson and JSON Views"
-date:   2017-07-25 12:00:00 +0100
-categories: jekyll update
+title: "Debug Logging Helper with Jackson and JSON Views"
+date: 2017-07-25 12:00:00 +0100
+tags: [Java, JSON]
 ---
 
 During development I sometimes find it handy to put debug logging statements in

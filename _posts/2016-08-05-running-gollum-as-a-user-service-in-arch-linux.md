@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Running Gollum as a User Service in Arch Linux"
-date:   2016-08-05 12:00:00 +0100
-categories: jekyll update
+title: "Running Gollum as a User Service in Arch Linux"
+date: 2016-08-05 12:00:00 +0100
+tags: [Gollum]
 ---
 
 [Gollum](https://github.com/gollum/gollum), "a simple wiki system built on top
@@ -48,6 +48,8 @@ already installed.
 
 Here's the content of my `systemd` service file `gollum.service`:
 
+<!-- markdownlint-disable MD013 -->
+
 ```ini
 [Unit]
 Description=Gollum wiki server
@@ -62,6 +64,8 @@ Restart=on-abort
 [Install]
 WantedBy=default.target
 ```
+
+<!-- markdownlint-enable MD013 -->
 
 The switches used with the executable are optional. The Gollum README [explains
 what they do](https://github.com/gollum/gollum#configuration).

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "The Only Good Limitation Is a Line Length Limitation"
-date:   2018-03-26 12:00:00 +0100
-categories: jekyll update
+title: "The Only Good Limitation Is a Line Length Limitation"
+date: 2018-03-26 12:00:00 +0100
+tags: [Code Style]
 ---
 
 There is an issue that might seem somewhat moot and negligible to many at first

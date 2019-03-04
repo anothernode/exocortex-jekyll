@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Writing Good Javadoc According to Joshua Bloch"
-date:   2016-04-20 12:00:00 +0100
-categories: jekyll update
+title: "Writing Good Javadoc According to Joshua Bloch"
+date: 2016-04-20 12:00:00 +0100
+tags: [Java]
 ---
 
 In one of the items of his canonical book *Effective Java* Joshua Bloch
@@ -60,6 +60,8 @@ Here's an [example from Google's Guava
 library](https://github.com/google/guava/blob/80dad6bf149f9b8d66e4db4436034cf6b7018398/guava/src/com/google/common/io/Files.java)
 that nicely illustrates most of the above:
 
+<!-- markdownlint-disable MD013 -->
+
 ```java
 /**
  * Reads all of the lines from a file. The lines do not include line-termination characters, but
@@ -78,6 +80,8 @@ public static List<String> readLines(File file, Charset charset) throws IOExcept
   [...]
 }
 ```
+
+<!-- markdwonlint-enable MD013 -->
 
 And here are a few more things to keep in mind:
 

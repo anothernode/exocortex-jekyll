@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "$HOME Improvement Galore"
-date:   2017-11-26 12:00:00 +0100
-categories: jekyll update
+title: "$HOME Improvement Galore"
+date: 2017-11-26 12:00:00 +0100
+tags: [Dotfiles]
 ---
 
 To distract myself from the sometimes slightly dull things that just need to be

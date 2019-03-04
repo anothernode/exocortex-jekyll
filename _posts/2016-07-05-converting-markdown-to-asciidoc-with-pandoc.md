@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Converting Markdown to AsciiDoc with Pandoc"
-date:   2016-07-05 12:00:00 +0100
-categories: jekyll update
+title: "Converting Markdown to AsciiDoc with Pandoc"
+date: 2016-07-05 12:00:00 +0100
+tags: [Markdown, AsciiDoc, Pandoc]
 ---
 
 I use Pandoc to convert Markdown to AsciiDoc like this:
