@@ -9,6 +9,10 @@ url: "https://exocortex.anothernode.com"
 twitter_username: anothernode
 github_username: anothernode
 
+collections:
+  non_nav_pages:
+    output: true
+
 # Build settings
 markdown: kramdown
 theme: minima
