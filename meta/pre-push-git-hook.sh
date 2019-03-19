@@ -15,9 +15,8 @@ echo "-----------------------------------------"
 echo " 🛠  Site successfully built with Jekyll "
 echo "-----------------------------------------"
 
-scp -r ${site_dir}/* ${remote_dir}
+rsync --recursive ${site_dir}/* ${remote_dir}
 
 echo "-------------------------------------"
 echo " 🏗  Exocortex successfully deployed "
 echo "-------------------------------------"
-
