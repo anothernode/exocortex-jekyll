@@ -5,3 +5,5 @@
 layout: home
 list_title: Journal
 ---
+
+![Yosemite](/assets/img/yosemite.jpg)
