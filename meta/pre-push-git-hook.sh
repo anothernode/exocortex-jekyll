@@ -15,7 +15,7 @@ echo "-----------------------------------------"
 echo " 🛠  Site successfully built with Jekyll "
 echo "-----------------------------------------"
 
-rsync --recursive ${site_dir}/* ${remote_dir}
+rsync --recursive --verbose ${site_dir}/* ${remote_dir}
 
 echo "-------------------------------------"
 echo " 🏗  Exocortex successfully deployed "
