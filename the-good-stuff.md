@@ -4,4 +4,4 @@ custom_css: the-good-stuff
 permalink: /the-good-stuff/
 ---
 
-- [Vim](vim)
+- [Vim](/the-good-stuff/vim.html)
