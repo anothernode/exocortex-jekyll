@@ -1,6 +1,7 @@
 ---
 layout: page
-title: 'The Good Stuff: Vim'
+title: Vim
+custom_css: the-good-stuff
 permalink: the-good-stuff/vim
 ---
 

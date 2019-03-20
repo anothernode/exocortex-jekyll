@@ -1,5 +1,5 @@
 ---
 layout: journal
-title: Journal
+custom_css: journal
 permalink: /journal/
 ---

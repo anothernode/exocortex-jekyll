@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+custom_css: about
 permalink: /about/
 ---
 
