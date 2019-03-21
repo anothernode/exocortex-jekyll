@@ -1,6 +1,6 @@
 ---
 layout: page
-custom_css: the-good-stuff
+nav_id: the-good-stuff
 permalink: /the-good-stuff/
 ---
 

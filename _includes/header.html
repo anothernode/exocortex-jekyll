@@ -17,13 +17,34 @@
         </label>
 
         <div class="trigger">
-          <a class="page-link" href="/the-good-stuff" id="nav-the-good-stuff">
+          <a
+            href="/the-good-stuff"
+            {%- if page.nav_id == "the-good-stuff" -%}
+            class="page-link active"
+            {%- else -%}
+            class="page-link"
+            {%- endif -%}
+          >
             The Good Stuff
           </a>
-          <a class="page-link" href="/journal" id="nav-journal">
+          <a
+            href="/journal"
+            {%- if page.nav_id == "journal" -%}
+            class="page-link active"
+            {%- else -%}
+            class="page-link"
+            {%- endif -%}
+          >
             Journal
           </a>
-          <a class="page-link" href="/about" id="nav-about">
+          <a
+            href="/about"
+            {%- if page.nav_id == "about" -%}
+            class="page-link active"
+            {%- else -%}
+            class="page-link"
+            {%- endif -%}
+          >
             About
           </a>
        </div>

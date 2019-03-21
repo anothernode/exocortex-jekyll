@@ -1,6 +1,6 @@
 ---
 layout: page
-custom_css: about
+nav_id: about
 permalink: /about/
 ---
 
