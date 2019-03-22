@@ -123,6 +123,10 @@
 .social-media-list {
   list-style: none;
   margin-left: 0;
+
+  li {
+    display: inline;
+  }
 }
 
 .footer-col-wrapper {

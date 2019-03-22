@@ -5,8 +5,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   "Who needs talent when you have intensity?" (Jeff Atwood)
 baseurl: ""
 url: "https://exocortex.anothernode.com"
-twitter_username: anothernode
-github_username: anothernode
+twitter_username: moritzreiter
+github_username: moritzreiter
 
 collections:
   non_nav_pages:
