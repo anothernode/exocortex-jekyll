@@ -47,7 +47,8 @@
   }
 
   .page-link.active {
-    color: $active-nav-item-color;
+    text-decoration: underline;
+    text-decoration-style: double;
   }
 
   @include media-query($on-palm) {
