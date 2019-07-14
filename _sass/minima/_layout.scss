@@ -270,7 +270,7 @@
 #cover {
   background: $background-color;
   border: none;
-  font-size: 0.53vw;
+  font-size: calc(0.31vw + 0.31vh);
   color: silver;
   text-align: center;
 }
