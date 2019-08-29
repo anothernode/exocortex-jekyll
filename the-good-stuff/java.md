@@ -9,3 +9,7 @@ permalink: the-good-stuff/java
 
 - Joshua Bloch, Effective Java, 3rd ed.
 - Robert C. Martin, Clean Code: A Handbook of Agile Software Craftsmanship
+
+## Online
+
+- [javadoc.io](https://javadoc.io)
