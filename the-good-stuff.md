@@ -12,7 +12,7 @@ forgotten in my messy piles of bookmarks, favorites and notes spread over
 different apps and services and at the same time share them with whomever might
 find them useful.
 
-I categorized the Links into the following sub pages:
+I categorized the resources into the following sub pages:
 
 - [Architecture](/the-good-stuff/architecture.html)
 - [Human Factors](/the-good-stuff/human-factors.html)
@@ -20,6 +20,7 @@ I categorized the Links into the following sub pages:
 - [Java](/the-good-stuff/java.html)
 - [JavaScript](/the-good-stuff/javascript.html)
 - [Math](/the-good-stuff/math.html)
+- [Programming](/the-good-stuff/programming.html)
 - [Python](/the-good-stuff/python.html)
 - [Tools](/the-good-stuff/tools.html)
 - [Vim](/the-good-stuff/vim.html)
