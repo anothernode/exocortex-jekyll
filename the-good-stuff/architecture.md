@@ -8,6 +8,7 @@ permalink: the-good-stuff/architecture
 ## Online
 
 - [The Twelve-Factor App](https://12factor.net)
+- [Self-Contained Systems](https://scs-architecture.org)
 
 ## Books
 
