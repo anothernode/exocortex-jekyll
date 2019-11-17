@@ -11,6 +11,7 @@ permalink: the-good-stuff/human-factors
 
 ## Books
 
+- Andy Hunt, Pragmatic Thinking and Learning: Refactor Your Wetware
 - Robert C. Martin, The Clean Coder: A Code of Conduct for Professional
   Programmers
 - Gerald Weinberg, The Psychology of Computer Programming
