@@ -6,7 +6,7 @@ set -e
 
 project_dir=$(git rev-parse --show-toplevel)
 site_dir=${project_dir}"/_site"
-remote_dir="exocortex.anothernode.com:~/exocortex"
+remote_dir="exocortex.anothernode.com:~/html"
 
 cd ${project_dir}
 bundle exec jekyll build
