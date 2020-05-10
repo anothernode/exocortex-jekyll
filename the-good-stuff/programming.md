@@ -12,12 +12,7 @@ permalink: the-good-stuff/programming
 ## Books
 
 - Beck, K. 2000. _Extreme Programming Explained: Embrace Change_
-- Evans, E. 2004. _Domain Driven Design: Tackling Complexity in the Heart of
-  Software_
 - Feathers, M. 2004. _Working Effectively With Legacy Code_
 - Fowler, M. 1999. _Refactoring: Improving the Design of Existing Code_
-- Gamma, E., R. Helm, R. Johnson, and J. Vlissides. 1995. _Design Patterns:
-  Elements of Reusable Object-Oriented Software_
 - Martin, R. 2008. _Clean Code: A Handbook of Agile Software Craftsmanship_
 - Martin, R. 2011. _The Clean Coder: A Code of Conduct for Professional Programmers_
-- Martin, R. 2019. _Clean Agile: Back to Basics_
