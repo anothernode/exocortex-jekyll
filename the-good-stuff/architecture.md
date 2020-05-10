@@ -12,4 +12,5 @@ permalink: the-good-stuff/architecture
 
 ## Books
 
-- Eric Evans, Domain-Driven Design: Tackling Complexity in the Heart of Software
+- Evans, E. 2004. _Domain-Driven Design: Tackling Complexity in the Heart of Software_
+- Fowler, M. 2003. _Patterns of Enterprise Application Architecture_
