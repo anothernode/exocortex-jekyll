@@ -18,6 +18,7 @@ theme: minima
 plugins:
   - jekyll-feed
 exclude:
+  - vendor
   - Gemfile
   - Gemfile.lock
-  - meta
+  - git-hooks

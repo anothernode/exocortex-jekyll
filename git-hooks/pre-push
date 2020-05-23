@@ -1,12 +1,20 @@
 #!/usr/bin/env bash
 
-# Move me to .git/hooks/pre-push
-
 set -e
+
+host=$(hostname)
+
+dest_host="gibbs.uberspace.de"
+dest_dir="${HOME}/html"
+
+if [ "$host" != "$dest_host" ]; then
+  dest="${dest_host}:${dest_dir}"
+else
+  dest=$dest_dir
+fi
 
 project_dir=$(git rev-parse --show-toplevel)
 site_dir=${project_dir}"/_site"
-remote_dir="exocortex.anothernode.com:~/html"
 
 cd ${project_dir}
 bundle exec jekyll build
@@ -15,7 +23,9 @@ echo "-----------------------------------------"
 echo " 🛠  Site successfully built with Jekyll "
 echo "-----------------------------------------"
 
-rsync --recursive --verbose ${site_dir}/* ${remote_dir}
+echo $dest
+
+rsync --recursive --verbose ${site_dir}/* ${dest}
 
 echo "-------------------------------------"
 echo " 🏗  Exocortex successfully deployed "
